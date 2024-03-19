@@ -1,0 +1,4 @@
+﻿  Ch3_exercise.cpp
+C:\Users\jra\source\repos\Ch3_exercise\Ch3_exercise\Ch3_exercise.cpp(78,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jra\source\repos\Ch3_exercise\Ch3_exercise\Ch3_exercise.cpp(128,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Ch3_exercise.vcxproj -> C:\Users\jra\source\repos\Ch3_exercise\x64\Debug\Ch3_exercise.exe
