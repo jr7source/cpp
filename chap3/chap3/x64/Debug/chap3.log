@@ -1,0 +1,4 @@
+﻿  chap3.cpp
+C:\Users\jra\source\repos\chap3\chap3\chap3.cpp(17,5): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\jra\source\repos\chap3\chap3\chap3.cpp(17,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jra\source\repos\chap3\chap3\chap3.cpp(22,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
