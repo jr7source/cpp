@@ -1,0 +1,3 @@
+﻿  beanMachine.cpp
+C:\Users\jra\source\repos\beanMachine\beanMachine\beanMachine.cpp(21,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  beanMachine.vcxproj -> C:\Users\jra\source\repos\beanMachine\x64\Debug\beanMachine.exe
